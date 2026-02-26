@@ -4,7 +4,7 @@ A chart converter for rhythm games. This tool is converting .osz files (Osu! fil
 # How to use?
 Place the .osz file of the song you want in the input folder. If you dont know how to create an .osz file, use the [Mug-Diffusion](https://github.com/Keytoyze/Mug-Diffusion)
 
-Then, just run the .bat file. Your chart's will be created at output file.
+Then, just run the .bat file. Your chart's will be created at output folder.
 
 Don't forget the install requirements.
 
